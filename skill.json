@@ -1,0 +1,13 @@
+{
+  "name": "genpark-izhikevich-spiking-neuron-bursting-skill",
+  "version": "1.0.0",
+  "description": "Izhikevich phenomenological spiking neuron model reproducing tonic spiking, phasic spiking, and chattering bursting patterns via two coupled 2D ODEs.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "izhikevich-neuron",
+    "tonic-spiking",
+    "bursting-dynamics",
+    "neuromorphic"
+  ]
+}
